@@ -1,0 +1,5 @@
+body{font-family:-apple-system,"SF Arabic","Segoe UI",Tahoma,sans-serif;max-width:720px;margin:0 auto;padding:24px 16px;line-height:1.8;color:#1d1d1f;background:#fff}
+h1{font-size:1.8em}h2{font-size:1.2em;margin-top:2em}
+section{margin-bottom:3em}hr{border:0;border-top:1px solid #ddd;margin:3em 0}
+a{color:#0a7d5a}
+@media (prefers-color-scheme:dark){body{background:#111;color:#eee}a{color:#4fd1a5}hr{border-color:#333}}
